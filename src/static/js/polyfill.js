@@ -1,7 +1,8 @@
 // From npm module
-import 'core-js/fn/dom-collections/iterator'
-import 'core-js/fn/array/from'
-import 'core-js/fn/object/assign'
-import 'core-js/es6/promise'
-import 'core-js/es6/symbol'
+import 'core-js/stable/promise'
+import 'core-js/stable/symbol'
+import 'regenerator-runtime/runtime'
+import 'core-js/features/dom-collections/iterator'
+import 'core-js/features/array/from'
+import 'core-js/features/object/assign'
 import 'eligrey-classlist-js-polyfill'
