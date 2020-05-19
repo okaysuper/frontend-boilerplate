@@ -111,6 +111,7 @@
     "normalize-scss": "^7.0.1"
   },
   "resolutions": {
-    "chokidar": "^3.4.0"
+    "chokidar": "^3.4.0",
+    "source-map-resolve": "^0.6.0"
   }
 }
